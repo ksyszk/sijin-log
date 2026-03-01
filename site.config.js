@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "Sijin Wang",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
+    role: "Backend Engineer => AI Application Developer",
     bio: "Backend foundations + AI innovations = The future I'm building.",
     email: "sijinwang00@gmail.com",
     linkedin: "",
@@ -25,7 +25,7 @@ const CONFIG = {
 
   // CONFIG configration (required)
   link: "https://sijin-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2026, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
