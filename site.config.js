@@ -11,10 +11,10 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    {
-      name: `sijin-log`,
-      href: "https://github.com/ksyszk/sijin-log",
-    },
+    // {
+    //   name: `sijin-log`,
+    //   href: "https://github.com/ksyszk/sijin-log",
+    // },
   ],
   // blog setting (required)
   blog: {
