@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `sijin-log`,
-      href: "https://github.com/ksyszk/sijin-log",
+      name: `resume-optimizer`,
+      href: "https://github.com/ksyszk/resume-optimizer",
     },
   ],
   // blog setting (required)
